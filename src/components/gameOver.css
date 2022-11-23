@@ -1,0 +1,9 @@
+.gameOver {
+  margin-top: 50px;
+}
+
+.gameOver h2,
+.gameOver h3 {
+  padding: 5px 0px;
+  letter-spacing: 2px;
+}

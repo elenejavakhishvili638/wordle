@@ -1,0 +1,24 @@
+.letter {
+  flex: 33%;
+  height: 100%;
+  border: 1px solid grey;
+  margin: 5px;
+  display: grid;
+  place-items: center;
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#correct {
+  background-color: #809a6f;
+}
+
+#almost {
+  background-color: #ffc85c;
+}
+
+#error {
+  background-color: #707070;
+}
